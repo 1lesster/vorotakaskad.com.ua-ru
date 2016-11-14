@@ -41,6 +41,7 @@ section.start{
 	font-size: 16px;
 	font-weight: bold;
 	margin-bottom: 3px;
+	display: block;
 }
 footer .contacts > p,
 footer .contacts > a{
