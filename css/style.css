@@ -465,13 +465,13 @@ footer .social > a:hover{
 		top: 0;
 	}
 	.logo > a > img{
-		width: 300px;
+		width: 200px;
 	}
 	.logo{
 		left: 50%;
 		top: 50%;
 		margin-top: -24px;
-		margin-left: -150px;
+		margin-left: -100px;
 	}
 	.main-nav li{
 		display: block;
