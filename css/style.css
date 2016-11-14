@@ -393,6 +393,11 @@ footer .social > a:hover{
 	}
 }
 @media screen and (max-width: 450px){
+	.start .contacts-block{
+		width: 100%;
+		right: 0;
+		padding-left: 20px;
+	}
 	.carousel-indicators{
 		bottom: 0;
 	}
