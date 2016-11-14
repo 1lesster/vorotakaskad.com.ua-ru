@@ -319,6 +319,10 @@ footer .social > a:hover{
 		top: 0;
 		padding: 10px 20px 10px 20px;
 	}
+	footer .contacts{
+		display: inline-block;
+		margin: 0 10px;
+	}
 	.contacts-block .contacts:first-child{
 		float: left;
 		margin-bottom: 0;
@@ -407,6 +411,10 @@ footer .social > a:hover{
 	.contacts-block .contacts:first-child{
 		margin-bottom: 10px;
 		float: none;
+	}
+	footer .contacts{
+		display: block;
+		margin: 0;
 	}
 	.contacts-block .contacts:last-child{
 		float: none;
